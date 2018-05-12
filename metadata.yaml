@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34003'
     url: http://www.gutenberg.org/2009/agents/34003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33809#Tratado-met-dico-y-pr-ctico-de-Materia-M-dica-y-de-Terap-utica-tomo-primero
 gutenberg_issued: '2010-09-25'
 gutenberg_type: Text
 identifiers:
